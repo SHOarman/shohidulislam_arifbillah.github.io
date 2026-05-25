@@ -3,7 +3,7 @@
 Welcome to the repository for my personal developer portfolio! This website serves as a digital resume and showcase of my cross-platform mobile app development journey, primarily focused on **Flutter** and **Dart**.
 
 ## 🚀 Live Demo
-**[View My Portfolio Live](https://SHOarman.github.io)**
+**[View My Portfolio Live](https://shoarman.github.io/shohidulislam_arifbillah.github.io/)**
 
 ---
 
