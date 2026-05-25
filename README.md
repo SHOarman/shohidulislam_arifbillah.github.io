@@ -7,11 +7,6 @@ Welcome to the repository for my personal developer portfolio! This website serv
 
 ---
 
-## 💻 Core Technologies
-*   **Mobile Development:** Flutter, Dart
-*   **State Management:** GetX, Provider, BLoC
-*   **Backend & APIs:** Firebase, REST APIs, Socket.io, Node.js
-*   **Architecture:** Clean Architecture, MVC, MVVM
 *   **Web & UI:** HTML5, CSS3, JavaScript, Brutalist UI Design
 
 ## ⚙️ GitHub Stats
